@@ -1,0 +1,5 @@
+timestamp,event_type,reason,latitude,longitude
+11/19/2025 17:04,ENTRY,pps=10.45 for 3s (smoothed),36.11581207,-97.16356696
+11/19/2025 17:05,EXIT,pps~0 for 4s (smoothed),36.11590747,-97.14369414
+11/19/2025 17:06,ENTRY,pps=10.45 for 3s (smoothed),36.11612091,-97.14864833
+11/19/2025 17:07,EXIT,pps~0 for 4s (smoothed),36.11622822,-97.16741822
